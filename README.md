@@ -14,3 +14,9 @@ app:contentScrim: This requires specifying a drawable or color value of the Coll
 
 
 app:scrimAnimationDuration: Specifies the duration used for scrim visibility animations. This requires an integer value such as “100”.
+
+
+
+OverView _____________________________>
+
+![collasping](https://user-images.githubusercontent.com/32546351/112304525-ca93da80-8cc7-11eb-871d-7f951814b453.gif)
